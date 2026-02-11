@@ -1,0 +1,14 @@
+=== PAYMENT RECEIPT ===
+Milestone: Website
+Amount: $2500
+Payment Type: Escrow
+Timestamp: Jan 14 2026 11:50:53
+========================
+
+=== PAYMENT RECEIPT ===
+Milestone: Front page of a cosmetic website
+Amount: $6776
+Payment Type: Escrow
+Timestamp: Jan 14 2026 11:50:53
+========================
+
